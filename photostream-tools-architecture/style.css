@@ -1,5 +1,6 @@
-img {
-	max-width: 800px;
+.img-architecture {
+	max-width: 1000px;
 	margin: 0 auto;
+	display: block;
 	width: 100%;
 }
