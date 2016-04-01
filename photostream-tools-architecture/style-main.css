@@ -10,7 +10,7 @@
 	color: #aaa !important;
 }
 
-.jumbotron {
+/*.jumbotron {
 	margin: 10px auto;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -20,18 +20,19 @@
 	padding-bottom: 40px;
 	box-shadow: 2px 2px 2px #888;
 	border-radius: 4px;
-}
+}*/
 
 h3 {
 	padding-top: 10px;
 	padding-bottom: 15px;
-	max-width: 80%;
-	margin: 0 auto;
 }
 
 .list-group {
-	max-width: 80%;
-	margin: 0 auto;
+	max-width: 500px;
+}
+
+.content {
+	margin-left: 15px;
 }
 
 body {
