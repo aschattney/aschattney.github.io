@@ -1,11 +1,7 @@
-h3 {
-	margin-left: 15px;
-	padding-top: 10px;
-	padding-bottom: 15px;
-}
 .navbar {
 	background: #3F51B5;
 	border-radius: 0px;
+	margin-bottom: 0px !important;
 }
 .navbar-brand {
 	color: #eee !important;
@@ -13,6 +9,31 @@ h3 {
 .navbar-brand:hover {
 	color: #aaa !important;
 }
+
+.jumbotron {
+	margin: 10px auto;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	padding-top: 40px;
+	background: #f4f4f4;
+	padding-bottom: 40px;
+	box-shadow: 2px 2px 2px #888;
+	border-radius: 4px;
+}
+
+h3 {
+	padding-top: 10px;
+	padding-bottom: 15px;
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.list-group {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
 body {
 	background: #ddd;
 }
